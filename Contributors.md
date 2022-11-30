@@ -38,7 +38,8 @@
 - [Mahadsid](https://github.com/Mahadsid)
 - [Trevor Ang](https://github.com/TrevorAng)
 - [Ema Omere]
-- [Lesh Chadick](https://github.com/lesh2)
+-[Aashay Naik]_DevSoc PreInduction 
+ [Lesh Chadick](https:/gihub.com/lesh2)
 - [Julian Schmid](https://github.com/KingNexu)
 - [Uras Varolgunes]
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
@@ -101,7 +102,8 @@
 - [Anuhya sabbani](https://github.com/anuhyasabbani)
 - [Bojidar Vladimirov](https://github.com/BojidarV)]
 - [sankarapandi](https://github.com/Sankarapandi-Murugan)
-- [Poyraz Bahcivan](https://github.com/poyrazbahcivan)
+-[Aashay Naik] DevSoc PreInductionn
+[Poyraz Bahcivan](https://github.com/poyrazbahcivan)
 - [Ryan Ignasiak](https://github.com/theravenousR)
 - [Arman Hadzigrahic](https://github.com/armeono)
 - [Anand Dubey](https://github.com/AnandDubey1711)
